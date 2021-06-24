@@ -1,0 +1,148 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.profile {
+  text-align: center;
+  width: 20%;
+  margin: auto;
+}
+
+.Top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 100px;
+  margin: 0 0 10px 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  /*line-height: 2;*/
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.Profile-pic {
+  height: 300px;
+  width: 300px;
+}
+
+.skill-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+a {
+  color: blue;
+}
+
+.sub-title {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+.border-1 {
+  border: dotted;
+  color: grey;
+  border-width: 5px 0 0 0;
+  width: 5%;
+  margin: 70px auto 70px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  margin-top: 100px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  padding: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 18px;
+  background: #66bfbf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-description {
+  width: 20%;
+  margin: 40px auto 40px auto;
+  text-align: center;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 50px 10px 50px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: purple;
+}
